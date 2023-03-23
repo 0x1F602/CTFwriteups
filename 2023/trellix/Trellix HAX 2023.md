@@ -1,10 +1,7 @@
 # Trellix HAX 2023
 
-
-
 ## Challenges
 
-WHY WONT YUOU WOAISOWRKRK WORK
+Testing
 
-
-[Free Yo Radicals I](./pwn/Free Yo Radicals I.md)
+[Free Yo Radicals I](./pwn/Free%20Yo%20Radicals%20I.md)
